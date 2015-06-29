@@ -1,0 +1,10 @@
+{
+  "name": "depo",
+  "version": "0.0.1",
+  "description": "practicing deployment",
+  "main": "",
+  "license": "Proprietary"
+,
+  "dependencies": {
+  }
+}
